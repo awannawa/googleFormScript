@@ -36,3 +36,5 @@ const idForm = 'formidmu'
     {htmlBody: isiEmail.replace(/\n/g, '<br>')}
   )
 }
+
+// setelah itu add triger by submit form
