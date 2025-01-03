@@ -29,3 +29,5 @@ if(waktuSekarang >= waktuCloseForm) {
 }
 
 }
+
+// set triger by time jangan lupa
